@@ -1,17 +1,17 @@
 <div align="center">
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
-<br>Project_Djikstra_BFS_DFS</h1>
+<br>Projet_Djikstra_BFS_DFS</h1>
 <h3>◦ Developed with the software and tools below.</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Markdown-000000.svg?style&logo=Markdown&logoColor=white" alt="Markdown" />
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style&logo=openjdk&logoColor=white" alt="java" />
 </p>
-<img src="https://img.shields.io/github/license/SamyOffer/Project_Djikstra_BFS_DFS?style&color=5D6D7E" alt="GitHub license" />
-<img src="https://img.shields.io/github/last-commit/SamyOffer/Project_Djikstra_BFS_DFS?style&color=5D6D7E" alt="git-last-commit" />
-<img src="https://img.shields.io/github/commit-activity/m/SamyOffer/Project_Djikstra_BFS_DFS?style&color=5D6D7E" alt="GitHub commit activity" />
-<img src="https://img.shields.io/github/languages/top/SamyOffer/Project_Djikstra_BFS_DFS?style&color=5D6D7E" alt="GitHub top language" />
+<img src="https://img.shields.io/github/license/SamyOffer/Projet_Djikstra_BFS_DFS?style&color=5D6D7E" alt="GitHub license" />
+<img src="https://img.shields.io/github/last-commit/SamyOffer/Projet_Djikstra_BFS_DFS?style&color=5D6D7E" alt="git-last-commit" />
+<img src="https://img.shields.io/github/commit-activity/m/SamyOffer/Projet_Djikstra_BFS_DFS?style&color=5D6D7E" alt="GitHub commit activity" />
+<img src="https://img.shields.io/github/languages/top/SamyOffer/Projet_Djikstra_BFS_DFS?style&color=5D6D7E" alt="GitHub top language" />
 </div>
 
 ---
@@ -46,14 +46,14 @@ The aim of this Java project was to find the shortest and fastest paths between 
 ## 📂 Repository Structure
 
 ```sh
-└── Project_Djikstra_BFS_DFS/
+└── Projet_Djikstra_BFS_DFS/
     ├── .DS_Store
     ├── .idea/
     │   ├── .gitignore
     │   ├── misc.xml
     │   ├── modules.xml
     │   └── runConfigurations.xml
-    ├── Project_SD_Blocus_1.iml
+    ├── Projet_SD_Blocus_1.iml
     ├── lignes.txt
     ├── out/
     │   └── production/
@@ -76,8 +76,8 @@ The aim of this Java project was to find the shortest and fastest paths between 
 
 | File                                                                                         
 | ---                                                                                         
-| [lignes.txt](https://github.com/SamyOffer/Project_Djikstra_BFS_DFS/blob/main/lignes.txt)     
-| [troncons.txt](https://github.com/SamyOffer/Project_Djikstra_BFS_DFS/blob/main/troncons.txt) 
+| [lignes.txt](https://github.com/SamyOffer/Projet_Djikstra_BFS_DFS/blob/main/lignes.txt)     
+| [troncons.txt](https://github.com/SamyOffer/Projet_Djikstra_BFS_DFS/blob/main/troncons.txt) 
 
 </details>
 
@@ -85,11 +85,11 @@ The aim of this Java project was to find the shortest and fastest paths between 
 
 | File                                                                                             
 | ---                                                                                              
-| [Graph.java](https://github.com/SamyOffer/Project_Djikstra_BFS_DFS/blob/main/src/Graph.java)     
-| [Station.java](https://github.com/SamyOffer/Project_Djikstra_BFS_DFS/blob/main/src/Station.java) 
-| [Main.java](https://github.com/SamyOffer/Project_Djikstra_BFS_DFS/blob/main/src/Main.java)       
-| [Ligne.java](https://github.com/SamyOffer/Project_Djikstra_BFS_DFS/blob/main/src/Ligne.java)     
-| [Troncon.java](https://github.com/SamyOffer/Project_Djikstra_BFS_DFS/blob/main/src/Troncon.java) 
+| [Graph.java](https://github.com/SamyOffer/Projet_Djikstra_BFS_DFS/blob/main/src/Graph.java)     
+| [Station.java](https://github.com/SamyOffer/Projet_Djikstra_BFS_DFS/blob/main/src/Station.java) 
+| [Main.java](https://github.com/SamyOffer/Projet_Djikstra_BFS_DFS/blob/main/src/Main.java)       
+| [Ligne.java](https://github.com/SamyOffer/Projet_Djikstra_BFS_DFS/blob/main/src/Ligne.java)     
+| [Troncon.java](https://github.com/SamyOffer/Projet_Djikstra_BFS_DFS/blob/main/src/Troncon.java) 
 
 </details>
 
@@ -101,7 +101,7 @@ The aim of this Java project was to find the shortest and fastest paths between 
 
 1. Clone the Project_Djikstra_BFS_DFS repository:
 ```sh
-git clone https://github.com/SamyOffer/Project_Djikstra_BFS_DFS
+git clone https://github.com/SamyOffer/Projet_Djikstra_BFS_DFS
 ```
 
 2. Open the project in your IDE and run it 🚀
